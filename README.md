@@ -30,7 +30,7 @@ You, of course, own the copyright to your work. Thus, it’s up to you whether y
 [http://mmp.bmcc.cuny.edu/vincent.bustamante/spring-2018.mmp-100/project-4](http://mmp.bmcc.cuny.edu/vincent.bustamante/spring-2018.mmp-100/project-4)
 
 ### Description
-This is a portfolio of my current video work I have done.
+This is a short collection of Timelapse videos i have shot. The music is from Explosions in The Sky. 
 
 ## Rules
 * **Do not** add or remove any files to this repo.
